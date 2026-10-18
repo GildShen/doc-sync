@@ -1,0 +1,4 @@
+interface:
+  display_name: "Documentation Sync"
+  short_description: "Sync verified behavior into agreed project documentation"
+  default_prompt: "Use $doc-sync to synchronize documentation with verified implementation, confirming the destination before writing if I have not already specified it."
